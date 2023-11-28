@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'SGBrotliKit'
-  s.version      = '1.0.3'
+  s.version      = '1.0.4'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.summary      = 'A Swift and Objective-C category for Brotli compression.'
   s.homepage     = 'https://github.com/luckymarmot/BrotliKit'
